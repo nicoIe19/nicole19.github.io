@@ -30,7 +30,7 @@ const music_list = [
     },
     {
         img : '/images/tiny-little.jpg',
-        name : 'Tiny Lttile Adiantum',
+        name : 'Tiny Little Adiantum',
         artist : 'Shibayan Records',
         music : '/audios/little.mp3'
     },
