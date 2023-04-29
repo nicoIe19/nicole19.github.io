@@ -22,76 +22,77 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'dancin-cat.gif',
+        img : '/images/let-go.jpg',
         name : 'Let Go',
         artist : 'Ark Patrol',
-        music : 'let-go.mp3'
+        music : '/audios/let-go.mp3',
+        
     },
     {
-        img : 'dancin-cat.gif',
+        img : '/images/tiny-little.jpg',
         name : 'Tiny Lttile Adiantum',
         artist : 'Shibayan Records',
-        music : 'little.mp3'
+        music : '/audios/little.mp3'
     },
     {
-        img : 'dancin-cat.gif',
+        img : '/images/little-dark.png',
         name : 'Little Dark Age',
         artist : 'MGMT',
-        music : 'dark-age.mp3'
+        music : '/audios/dark-age.mp3'
     },
     {
-        img : 'dancin-cat.gif',
+        img : '/images/blue.jpg',
         name : 'Blue',
         artist : 'Eiffel 65',
-        music : 'blue.mp3'
+        music : '/audios/blue.mp3'
     },
     {
-        img : 'dancin-cat.gif',
+        img : '/images/wine-pon.jpg',
         name : 'wine pon u - sped up',
         artist : 'Doja Cat',
-        music : 'wine pon you - sped up.mp3'
+        music : '/audios/wine pon you - sped up.mp3'
     },
     {
-        img : 'dancin-cat.gif',
+        img : '/images/watcha-say.jpg',
         name : 'Watcha Say',
         artist : 'A-Wall',
-        music : 'Watcha Say_.mp3'
+        music : '/audios/Watcha Say_.mp3'
     },
     {
-        img : 'dancin-cat.gif',
+        img : '/images/i-know.jpg',
         name : 'I Know - P Edit',
         artist : 'Kanii',
-        music : 'Kanii - I Know (PR1SVX Edit) [Visualizer].mp3'
+        music : '/audios/Kanii - I Know (PR1SVX Edit) [Visualizer].mp3'
     },
     {
-        img : 'dancin-cat.gif',
+        img : '/images/confident.jpg',
         name : 'Confident',
         artist : 'Justin Bieber ft. Chance',
-        music : 'confident.mp3'
+        music : '/audios/confident.mp3'
     },
     {
-        img : 'dancin-cat.gif',
+        img : '/images/limbo.jpg',
         name : 'Limbo',
         artist : 'Freddie Dredd',
-        music : 'Freddie Dredd - Limbo.mp3'
+        music : '/audios/Freddie Dredd - Limbo.mp3'
     },
     {
-        img : 'dancin-cat.gif',
+        img : '/images/red-bone.jpg',
         name : 'Redbone',
         artist : 'Childish Gambino',
-        music : 'Childish Gambino - Redbone (Official Audio).mp3'
+        music : '/audios/Childish Gambino - Redbone (Official Audio).mp3'
     },
     {
-        img : 'dancin-cat.gif',
+        img : '/images/shameless.png',
         name : 'Shameless - sped up',
         artist : 'Camila Cabello',
-        music : 'camila cabello - shameless (sped up).mp3'
+        music : '/audios/camila cabello - shameless (sped up).mp3'
     },
     {
-        img : 'dancin-cat.gif',
+        img : '/images/blood.jpg',
         name : '#BrooklynBPop!',
         artist : 'Syko',
-        music : 'blood.mp3'
+        music : '/audios/blood.mp3'
     }
 
 
